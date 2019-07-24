@@ -25,7 +25,7 @@ export default new Router({
     },
     {
       path: '/admin',
-      name: 'admin',
+      name: '',
       component: Index,
 
       children: [
